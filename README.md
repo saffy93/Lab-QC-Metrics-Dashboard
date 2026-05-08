@@ -6,7 +6,7 @@
 
 
 
-This dashboard analyzes daily QC metrics from the kind of high-volume CAP/CLIA-regulated histology lab I work in every day. I built it to show how I’m learning to use data analytics to track specimen volume, IHC slide counts, error rates, deviations, and turnaround times — the exact things I monitor during real-time QC checks every shift.
+This dashboard analyzes daily QC metrics from the kind of high-volume CAP/CLIA-regulated histology lab I work in every day. I built it to show how I’m learning to use data analytics to track specimen volume, IHC slide counts, error rates, deviations, and turnaround times). These are the exact things I monitor during real-time QC checks every shift.
 
 
 
@@ -48,4 +48,4 @@ It demonstrates how I’m combining my 8+ years of hands-on lab experience (200+
 
 ## Built by
 
-Safra Dar — Histologist with 8+ years of CAP/CLIA-regulated QC experience transitioning into clinical data analytics and quality systems roles.
+Safra Dar: Histologist with 8+ years of CAP/CLIA-regulated QC experience transitioning into clinical data analytics and quality systems roles.
